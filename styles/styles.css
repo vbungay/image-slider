@@ -269,7 +269,7 @@ div .swiper-button-prev, div .swiper-button-next {
     }
 
     .swiper-slide .text-content {
-        margin: 0px 70px 0 20px;
+        margin: -20px 70px 0 20px;
     }
 
     .swiper-slide .text-content .title {
@@ -278,6 +278,10 @@ div .swiper-button-prev, div .swiper-button-next {
 
     .swiper-slide .text-content .title span {
         font-size: .3em;
+    }
+
+    .swiper-slide .text-content p {
+        font-size: 14px;
     }
 
     .nav-menu-btn {
